@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zachary260325
 - 👀 I’m interested in C++, Unity3d, Python, HTML.
-- 🌱 I’m currently learning Pytorch.
-- 💞️ I’m looking for a girlfriend.
+- 🌱 I’m currently learning ML stuff
 - 📫 Contact me on github.
 
 <!---
