@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Zachary260325
-- 👀 I’m interested in C++, Unity3d, Python, HTML.
-- 🌱 I’m currently learning ML stuff
+- 👀 I’m interested in C++, Unity3d, Python, HTML, AI stuff.
+- 🌱 I’m currently learning ML & CV things
 - 📫 Contact me on github.
-- 📍 Exchanging @ UPenn
+- 📍 Now in HKUST.
+- Just exchanged to UPenn, wonderful!
 
 <!---
 Zachary260325/Zachary260325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
